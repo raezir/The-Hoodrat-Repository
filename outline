@@ -2,3 +2,19 @@
 
 # Name TBD
 # This program will predict stock market trends
+
+Inputs:
+1. stock prices (open, close, etc. for top 500 stocks) - 3d matrix
+2. news articles mentioning companies - txt doc (trusted websites)
+3. industry trends - txt doc
+4. monopolies/upcoming companies with value - txt doc
+5. politics - txt doc
+6. user risk level - integer (0-100)
+
+Outputs:
+1. Stock prices - varying time ranges with confidence intervals (likely closer time range = higher confidence)
+2. Stock suggestions (buy/sell)
+
+Format of outputs:
+1. Graphs
+2. List or table - matrix
