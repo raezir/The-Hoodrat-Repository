@@ -1,0 +1,8 @@
+January 28, 2017
+
+This is a test article to see if I can read a text file line by line.
+If this works I should be able to look at articles online and read information about companies.
+Right about here is the super interesting information about all the companies on the stock market.
+Hope this works.
+
+All done. Bye.
